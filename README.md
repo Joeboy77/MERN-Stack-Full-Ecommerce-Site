@@ -35,3 +35,5 @@ Powerful MERN Stack Ecommerce Project using React, Redux, Node.js, Express, Mong
 ## Order Details
 
 <img src="./assets/2022-08-03_094556.png" alt="Order Details" title="Order Details">
+
+Project will be updated soon...
